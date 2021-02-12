@@ -5,6 +5,16 @@ VisualStudioVersion = 16.0.29920.165
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CleanArchSolution", "CleanArchSolution.csproj", "{E4DF1CB1-F56A-4C4A-9872-FC96450F185C}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CleanArchSolution.application", "CleanArchSolution.application", "{893AB183-9879-43E4-BF3E-7871E094550A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CleanArchSolution.domain", "CleanArchSolution.domain", "{8DE4BCA8-1C93-4989-AF36-1250DB3497F9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CleanArchSolution.infra.IoC", "CleanArchSolution.infra.IoC", "{BD31DBF4-B5FD-48CB-8B06-D5841E177F2E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CleanArchSolution.infra.data", "CleanArchSolution.infra.data", "{6FB52793-1E71-456E-9212-1D08B24D06A3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CleanArchSolution.UI.Nvc", "CleanArchSolution.UI.Nvc", "{1C007F05-5855-4EC0-AF40-5BBB1D49D2A2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
